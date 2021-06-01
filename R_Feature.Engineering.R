@@ -1,4 +1,4 @@
-###GROUP-18 Final Project
+###
 
 ###Import Data & Setup
 library(data.table)
